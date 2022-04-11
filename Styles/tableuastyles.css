@@ -1,0 +1,91 @@
+.navigation{
+    height: 100px;
+    background-color: rgb(228, 225, 225);
+    line-height: 100px;
+}
+
+.footer{
+    height: 50px;
+    background-color: black;
+    color: white;
+    line-height: 50px;
+}
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.excitedtext{
+    color: black;
+}
+
+.caption{
+    height: 100px;
+    margin-left: 200px;
+
+}
+
+.mainbody{
+    background-color: azure;
+}
+
+.mainbody1{
+    top: 105px;
+    left: 400px;
+    right: 300px;
+    bottom: 200px;
+}
+
+.caption1{
+    top: 200px;
+    left: 400px;
+    right: 250px;
+    bottom: 200px;
+    border: solid lightgray 2px;
+}
+
+.mainbody2{
+    top: 200px;
+    left: 400px;
+    right: 15px;
+    height: 300px;
+}
+
+.caption2{
+    top: 200px;
+    left: 400px;
+    right: 250px;
+    bottom: 200px;
+    border: solid lightgray 2px;
+}
+
+.mainbody3{
+    top: 310px;
+    right: 15px;
+    left: 400px;
+    bottom: 100px;
+}
+
+.caption3{
+    top: 200px;
+    left: 400px;
+    right: 250px;
+    bottom: 200px;
+    border: solid lightgray 2px; 
+}
+
+.mainbody4{
+    top: 210px;
+    right: 15px;
+    left: 400px;
+    bottom: 100px;
+}
+
+.caption4{
+    top: 200px;
+    left: 15px;
+    right: 250px;
+    bottom: 200px;
+    border: solid lightgray 2px; 
+}
